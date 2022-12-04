@@ -10,6 +10,8 @@ Dataset :
 
 Contains a lot of features about passengers like - Name, Age, Pclass and the target variable - Survived.
 
+Shape - (891 x 12)
+
 Languages and libraries :
 
 This project uses python3, sklearn, numpy, pandas in jupyter notebook(Anaconda Distribution).
